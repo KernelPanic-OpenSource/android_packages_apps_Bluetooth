@@ -185,15 +185,7 @@ public class Constants {
             "text/plain",
             "text/html",
             "text/xml",
-            "application/zip",
-            "application/vnd.ms-excel",
-            "application/msword",
-            "application/vnd.ms-powerpoint",
-            "application/pdf",
-            "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-            "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-            "application/vnd.openxmlformats-officedocument.presentationml.presentation",
-            "application/x-hwp",
+            "application/*",
     };
 
     /** Where we store received files */
